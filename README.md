@@ -66,3 +66,40 @@ The analysis of the provided sales data for January 2013 was conducted using the
 #### 4.	Dashboard Creation:
 - Combine all visualizations into an interactive dashboard.
 - Add slicer for year to allow dynamic analysis.
+### DASHBOARD
+![](Dash_board.PNG)
+## RESULTS AND FINDINGS
+#### Total Sales by Product Type
+•	Frozen Yogurt generated the highest total sales, followed by Ice Cream, Tasty Treats, and Popsicles.
+•	Frozen Yogurt: $76,719.00
+•	Ice Cream: $47,656.00
+•	Tasty Treats: $26,379.00
+•	Popsicles: $7,107.00
+#### Sales by Salesperson
+•	Bishop had the highest total sales, followed by Lee, Watson, Parker, and Pullen.
+•	Bishop: $45,199.50
+•	Lee: $47,779.50
+•	Watson: $37,986.00
+•	Parker: $24,803.50
+•	Pullen: $7,107.00
+#### Sales by Region
+•	Central region had the highest total sales, followed by West, North, and South.
+•	Central: $73,769.50
+•	West: $45,199.50
+•	North: $24,803.50
+•	South: $7,107.00
+#### Units Sold by Product Type
+•	Frozen Yogurt and Ice Cream had the highest number of units sold.
+•	Frozen Yogurt: 48,248 units
+•	Ice Cream: 26,179 units
+•	Tasty Treats: 17,586 units
+•	Popsicles: 4,738 units
+#### Sales Distribution
+•	The distribution of sales among product types shows that Frozen Yogurt holds a significant share, followed by Ice Cream, Tasty Treats, and Popsicles.
+## CONCLUSIONS
+#### The analysis of the sales data for 2021 – 2023 using Power BI reveals significant insights:
+1.	Frozen Yogurt is the top-performing product type in terms of total sales and units sold.
+2.	Bishop and Lee are the top-performing salespersons.
+3.	The Central region is the most lucrative, contributing the highest total sales.
+4.	Popsicles have the lowest sales and units sold, indicating a potential area for improvement or reevaluation of product strategy.
+#### These insights can help the company focus on its strengths, such as promoting Frozen Yogurt and leveraging top-performing salespersons, while also addressing areas with lower performance to enhance overall sales strategy.
