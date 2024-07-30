@@ -33,5 +33,17 @@ The dataset provided consists of sales records for 2021 - 2023, detailing variou
 - South
 #### 6.	Sales: The total revenue generated from the sale. The sales amounts are represented in USD and vary across different transactions.
 #### 7.	Units: The number of units sold in the transaction. This indicates the quantity of the product sold in each transaction.
-##### 8.	Order #: A unique identifier for each sales transaction. This helps in distinguishing and referencing individual transactions.
+#### 8.	Order #: A unique identifier for each sales transaction. This helps in distinguishing and referencing individual transactions.
 #### The dataset is structured to facilitate a detailed analysis of sales performance, allowing for comparisons across different dimensions such as product type, salesperson, and region. This structure is essential for identifying key trends, evaluating performance metrics, and making informed business decisions.
+### TOOLS/SKILLS USED
+The analysis of the provided sales data for January 2013 was conducted using the following tools:
+### Microsoft Excel:
+- Data Entry and Cleaning: The raw sales data was initially entered into Excel. Excel's powerful data manipulation capabilities were used to clean and prepare the data, ensuring accuracy and consistency.
+- Data Organization: The data was organized into a structured table format, with clear headers and categorized fields, making it easy to manage and analyze.
+### Power BI:
+- Data Import: The cleaned and organized data from Excel was imported into Power BI for advanced analysis and visualization.
+- Data Transformation: Power BI's Power Query Editor was utilized to further transform the data, including steps such as filtering, sorting, and creating calculated columns to derive additional insights.
+- Visualization: A variety of visualizations were created using Power BI's robust visualization tools, including bar charts, pie charts, line graphs, and tables. These visualizations helped to visually represent the sales performance, regional comparisons, salesperson contributions, and product type analysis.
+- Dashboard Creation: Interactive dashboards were created in Power BI, allowing for dynamic exploration of the data. These dashboards provided a comprehensive view of the sales performance and allowed stakeholders to drill down into specific details as needed.
+- Insights and Reporting: Power BI's analytics features, such as trend analysis, data segmentation, and key performance indicators (KPIs), were used to generate insights and produce detailed reports. These reports highlighted key findings and actionable recommendations based on the sales data.
+#### By leveraging the capabilities of Microsoft Excel for data entry and initial cleaning, followed by the advanced analysis and visualization features of Power BI, a thorough and insightful analysis of the sales data was achieved. This combination of tools facilitated a seamless transition from raw data to actionable insights, enabling informed decision-making and strategic planning.
