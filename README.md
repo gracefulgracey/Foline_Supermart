@@ -47,3 +47,22 @@ The analysis of the provided sales data for January 2013 was conducted using the
 - Dashboard Creation: Interactive dashboards were created in Power BI, allowing for dynamic exploration of the data. These dashboards provided a comprehensive view of the sales performance and allowed stakeholders to drill down into specific details as needed.
 - Insights and Reporting: Power BI's analytics features, such as trend analysis, data segmentation, and key performance indicators (KPIs), were used to generate insights and produce detailed reports. These reports highlighted key findings and actionable recommendations based on the sales data.
 #### By leveraging the capabilities of Microsoft Excel for data entry and initial cleaning, followed by the advanced analysis and visualization features of Power BI, a thorough and insightful analysis of the sales data was achieved. This combination of tools facilitated a seamless transition from raw data to actionable insights, enabling informed decision-making and strategic planning.
+## ANALYSIS
+### THE RAW DATA
+![](Data_set.PNG)
+### Analysis Process
+#### 1.	Data Import and Cleaning:
+- Import the Excel dataset into Power BI.
+- Ensure all columns (Year, Month, Type, Salesperson, Region, Sales, Units, Order #) are correctly formatted.
+#### 2.	Data Transformation:
+- Remove any duplicate rows if present.
+#### 3.	Visualization Creation:
+- Total Sales by Product Type: Use a bar chart to visualize total sales for each product type.
+- Sales by Salesperson: Create a bar chart showing total sales for each salesperson.
+- Sales by Region: Use a bar chart to compare total sales across different regions.
+- Units Sold by Product Type: Visualize the number of units sold for each product type using a bar chart.
+- Sales Trends: Use a line chart to show any trends over time, even though this dataset covers only one month.
+- Order Distribution: A pie chart to show the distribution of order among different regions.
+#### 4.	Dashboard Creation:
+- Combine all visualizations into an interactive dashboard.
+- Add slicer for year to allow dynamic analysis.
