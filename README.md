@@ -36,7 +36,7 @@ The dataset provided consists of sales records for 2021 - 2023, detailing variou
 #### 8.	Order #: A unique identifier for each sales transaction. This helps in distinguishing and referencing individual transactions.
 #### The dataset is structured to facilitate a detailed analysis of sales performance, allowing for comparisons across different dimensions such as product type, salesperson, and region. This structure is essential for identifying key trends, evaluating performance metrics, and making informed business decisions.
 ### TOOLS/SKILLS USED
-The analysis of the provided sales data for January 2013 was conducted using the following tools:
+The analysis of the provided sales data for January 2011 to 2013 was conducted using the following tools:
 ### Microsoft Excel:
 - Data Entry and Cleaning: The raw sales data was initially entered into Excel. Excel's powerful data manipulation capabilities were used to clean and prepare the data, ensuring accuracy and consistency.
 - Data Organization: The data was organized into a structured table format, with clear headers and categorized fields, making it easy to manage and analyze.
@@ -97,7 +97,7 @@ The analysis of the provided sales data for January 2013 was conducted using the
 #### Sales Distribution
 •	The distribution of sales among product types shows that Frozen Yogurt holds a significant share, followed by Ice Cream, Tasty Treats, and Popsicles.
 ## CONCLUSIONS
-#### The analysis of the sales data for 2021 – 2023 using Power BI reveals significant insights:
+#### The analysis of the sales data for 2011 – 2013 using Power BI reveals significant insights:
 1.	Frozen Yogurt is the top-performing product type in terms of total sales and units sold.
 2.	Bishop and Lee are the top-performing salespersons.
 3.	The Central region is the most lucrative, contributing the highest total sales.
